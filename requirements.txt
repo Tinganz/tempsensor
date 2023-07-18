@@ -1,0 +1,6 @@
+pyserial
+flask
+time
+scipy.interpolate
+matplotlib.pyplot
+numpy
